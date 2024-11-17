@@ -1,0 +1,6 @@
+bin/**
+compile_flags.txt
+.clang-format
+.clang-tidy
+.clangd
+main.o
